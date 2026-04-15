@@ -1,1 +1,0 @@
-# LASIK-safety-calculator
